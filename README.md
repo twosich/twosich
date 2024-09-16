@@ -21,5 +21,6 @@
 <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" />
 </div>
 
+# Stats 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thalenes)](https://github.com/anuraghazra/github-readme-stats)
 
