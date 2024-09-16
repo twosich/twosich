@@ -1,5 +1,4 @@
-# Tute 🌱
-Graphic designer and frontend and mobile developer
+![alt text](https://github.com/thalenes/thalenes/blob/main/poster.png)
 
 ### Mobile Development 🍂
 <div align="left">
